@@ -17,21 +17,7 @@ This project aims to predict Bitcoin price trends using advanced **machine learn
 - **Machine Learning** (Feature Engineering, Model Training, Real-Time Prediction)  
 - **Web-Based Visualization** (Plotly for interactive charts)  
 
-### 🚀 **How to Run**  
-1. **Clone the Repository:**  
-   ```bash
-   git clone <your-repo-url>
-   cd crypto-prediction
-   ```
-2. **Install Dependencies:**  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Script:**  
-   ```bash
-   python main.py
-   ```
-4. **Monitor Real-Time Predictions & Interactive Charts!** 📊🚀  
+  
 
 ### 📜 **Future Enhancements**  
 - 📡 **Web-Based Dashboard** with Flask/Django  
